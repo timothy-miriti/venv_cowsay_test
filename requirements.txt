@@ -1,0 +1,2 @@
+catsay==1.0.4
+cowsay==6.1

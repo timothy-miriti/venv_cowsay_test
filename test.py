@@ -1,3 +1,5 @@
 import cowsay
-cowsay.cow("Hello, World!")
-# cowsay.cow("Good Mooooorning!")
+import catsay
+
+catsay.catsay("meeu!")
+cowsay.cow("Good Mooooorning!")
